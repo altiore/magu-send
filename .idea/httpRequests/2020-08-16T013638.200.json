@@ -1,5 +1,0 @@
-[
-  "Выброшено исключение: ",
-  "View [<html><head><title>Тестовое письмо с HTML<.title><meta charset=\"utf8\"><.head><body><p>Пример таблицы<.p><table><tr><th>Колонка 1<.th><th>Колонка 2<.th><th>Колонка 3<.th><th>Колонка 4<.th><.tr><tr><td>Ячейка 1<.td><td>Ячейка 2<.td><td>Ячейка 3<.td><td>Ячейка 4<.td><.tr><tr><td>Ячейка 5<.td><td>Ячейка 6<.td><td>Ячейка 7<.td><td>Ячейка 8<.td><.tr><.table><.body><.html>] not found.",
-  "\n"
-]
