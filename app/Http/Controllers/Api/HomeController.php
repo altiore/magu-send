@@ -37,12 +37,12 @@ class HomeController extends Controller
                 $data = json_decode($request->getContent());
                 $task = Task::new($data);
                 return response()->json( [
-                    $task,
-//                    'id' => $task->id,
-//                    'from'=> $task->from,
-//                    'to'=> $task->to,
-//                    'html' => $task->html,
-//                    'subject' => $task->subject
+//                    $task,
+                    'id' => $task->id,
+                    'from'=> $task->from,
+                    'to'=> $task->to,
+                    'html' => $task->html,
+                    'subject' => $task->subject
 ]);
             } catch (\Exception $e) {
                 return ['Выброшено исключение: ', $e->getMessage(), "\n"];
