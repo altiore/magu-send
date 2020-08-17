@@ -26,7 +26,7 @@
 <p>Все просто</p>
 
 Подключение по api по ключу. В базе есть поле IP, можете дополнительно сравнить ключ + IP.
-Что бы развернуть - просто скачайте, composer install, запустите миграции. Возможно дополнительные настройки для
+Что бы развернуть - просто скачайте, выполните composer install, запустите миграции. Возможно дополнительные настройки для
 для Laravel Telescope => https://laravel.com/docs/7.x/telescope Если вам он не нужен удалите из его composer.json и из его подключение в config/app.php
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
