@@ -1,0 +1,598 @@
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T121046.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-ffuikk5f6@srv1.mail-tester.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T114652.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T113532.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T112849.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T112755.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T112659.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T112635.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T112257.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T112208.500.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-8rafsin9o@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T095811.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-8rafsin9o@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-8rafsin9o@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T095730.404.html
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "magumaxod@gmail.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T072415.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "magumaxod@gmail.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T071617.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "magumaxod@gmail.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T071455.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "magumaxod@gmail.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T044402.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T044228.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T044121.500.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T044106.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T043728.500.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T043647.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T043612.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T042859.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-wb7dk31p6@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T042718.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-v0yi8k41u@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T042336.500.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-v0yi8k41u@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T042229.500.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-v0yi8k41u@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013814.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013713.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013638.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013511.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013347.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013242.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T013155.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T011601.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-bls6itxmr@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T011334.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-aa9crliq0@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T011238.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-aa9crliq0@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T011157.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-aa9crliq0@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>Тестовое письмо с HTML</title><meta charset=\"utf8\"></head><body><p>Пример таблицы</p><table><tr><th>Колонка 1</th><th>Колонка 2</th><th>Колонка 3</th><th>Колонка 4</th></tr><tr><td>Ячейка 1</td><td>Ячейка 2</td><td>Ячейка 3</td><td>Ячейка 4</td></tr><tr><td>Ячейка 5</td><td>Ячейка 6</td><td>Ячейка 7</td><td>Ячейка 8</td></tr></table></body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-16T011100.500.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T023339.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T013548.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T013427.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T013306.200.json
+
+###
+
+POST http://magus.loc/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T012919.200.json
+
+###
+
+POST http://magus.loc/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T012637.200.json
+
+###
+
+POST http://magus.loc/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T011933.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T011757.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-batyvfl2e@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T010917.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-aa9crliq0@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T010801.200.json
+
+###
+
+POST http://magus.loc/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-aa9crliq0@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T010709.200.json
+
+###
+
+POST http://magus.loc/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{       "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-aa9crliq0@srv1.mail-tester.com", "name": "Максим"},       "html": "<html><head><title>TEST messega</title></head><body><p>Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.</p><p> Я по ним не перешел и они просрочились  (на тот момент  они мне были не нужны). Можешь как то их обновить.B tot ytvyjuj ntrcn fxnj ,s etkbxbnm tuj j,]tv g chfdytyb. c реьд hfpvtnrjq gbcmvf</p> </body></html>",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-15T010431.200.json
+
+###
+

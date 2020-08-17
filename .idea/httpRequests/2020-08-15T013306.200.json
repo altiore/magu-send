@@ -1,0 +1,5 @@
+[
+  "Выброшено исключение: ",
+  "Expected response code 250 but got code \"501\", with message \"501 <'razvanlomov@gmail.com'>: malformed address: '> may not follow <'razvanlomov@gmail.com\r\n\"",
+  "\n"
+]

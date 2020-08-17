@@ -1,0 +1,5 @@
+[
+  "Выброшено исключение: ",
+  "Undefined property: App\\Listeners\\TaskCreatedSendNotification::$task",
+  "\n"
+]

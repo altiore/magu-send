@@ -1,0 +1,5 @@
+[
+  "Выброшено исключение: ",
+  "Method Illuminate\\Mail\\Mailer::sent does not exist.",
+  "\n"
+]
