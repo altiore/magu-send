@@ -13,15 +13,37 @@
 Вариант 2) "from": "email:test@test.com, name:user_name_from" , //string  В строке обязательно ЗАПЯТАЯ между email и name</p>
 
 ==========to====================
+
 <p>Вариант 1)   "to": {"email": "user@mail.com", "name": "Адресат"}, //json<p>
 <p>Вариант 2) "to":"email:user@mail.com, name: name_user_to", //string  В строке обязательно ЗАПЯТАЯ между email и name</p>
 
 =============html================
+
 <p>"html": "Hello world",</p>
 
 ==============subject==================
+
 <p>"subject": "заголовок  письма" </p>
 
+===============================Пример==================================
+## JSON
+{ 	
+  "from": {"email": "test@test.com", "name": "user_name" }, 	
+  "to":{"email": "test@test.com", "name": "name_user"}, 
+  "html": "html text", 	
+  "subject": "заголовок письма" 
+}
+
+## JSON где from & to строки
+
+{ 	
+  "from": "email:test@test.com, name:user_name_from" , 	
+  "to":"email:test@test.com, name: name_user_to", 
+  "html": "html text", 	
+  "subject": "заголовок письма" 
+}
+
+============================Примечания=================================
 
 <p>Все просто</p>
 
