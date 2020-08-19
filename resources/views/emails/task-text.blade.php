@@ -1,6 +1,6 @@
 {{$demo = $task}}
 Hello {{ $demo->mailFrom()['name'] }},
-This is a demo email for testing purposes! Also, it's the HTML version.
+This is a demo email for testing purposes! Also, it's the TEXT version.
 
 Demo object values:
 

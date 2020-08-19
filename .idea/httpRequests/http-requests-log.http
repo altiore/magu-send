@@ -1,0 +1,36 @@
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "test-t7jvjpm8i@srv1.mail-tester.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T033935.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T023920.200.json
+
+###
+
+POST https://magu.pro/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer hello_world
+
+{   "from": {"email": "razvanlomov@gmail.com", "name": "Разван"},       "to": {"email": "max3bf@gmail.com", "name": "Максим"},       "html": "Павел. Ты там ссылки кидал на сам проект (вроде кабинет) и на github.",      "subject": "Заголовок, забыл вписал или нет"    }
+
+<> 2020-08-17T023703.200.json
+
+###
+
