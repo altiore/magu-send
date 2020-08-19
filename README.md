@@ -1,80 +1,55 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center">Всем привет</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## Обычный отправитель сообщений
 
-## About Laravel
+<p>Получает сообщения по api, валидирует, сохраняет в базу как задачу Task.
+На событие сохрание Task висит слушатель, который вызывается и формирует и отправляет письмо. Вот и все.</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Отправка данных. JSON
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+==========from==================
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p>Вариант 1) "from": {"email": "admin@email.com", "name": "user_name"}, //json</p>
+Вариант 2) "from": "email:test@test.com, name:user_name_from" , //string  В строке обязательно ЗАПЯТАЯ между email и name</p>
 
-## Learning Laravel
+==========to====================
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p>Вариант 1)   "to": {"email": "user@mail.com", "name": "Адресат"}, //json<p>
+<p>Вариант 2) "to":"email:user@mail.com, name: name_user_to", //string  В строке обязательно ЗАПЯТАЯ между email и name</p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+=============html================
 
-## Laravel Sponsors
+<p>"html": "Hello world",</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+==============subject==================
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
+<p>"subject": "заголовок  письма" </p>
 
-## Contributing
+===============================Пример==================================
+## JSON
+{ 	
+  "from": {"email": "test@test.com", "name": "user_name" }, 	
+  "to":{"email": "test@test.com", "name": "name_user"}, 
+  "html": "html text", 	
+  "subject": "заголовок письма" 
+}
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## JSON где from & to строки
 
-## Code of Conduct
+{ 	
+  "from": "email:test@test.com, name:user_name_from" , 	
+  "to":"email:test@test.com, name: name_user_to", 
+  "html": "html text", 	
+  "subject": "заголовок письма" 
+}
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+============================Примечания=================================
 
-## Security Vulnerabilities
+<p>Все просто</p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
+Подключение по api по ключу. В базе есть поле IP, можете дополнительно сравнить ключ + IP.
+Что бы развернуть - просто скачайте, выполните composer install, запустите миграции. Возможно дополнительные настройки для
+для Laravel Telescope => https://laravel.com/docs/7.x/telescope Если вам он не нужен удалите из его composer.json и из его подключение в config/app.php
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# magu-send" 
