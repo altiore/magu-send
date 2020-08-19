@@ -73,6 +73,8 @@ class RegisterController extends Controller
     }
     protected function registered(Request $request, $user)
     {
-        $user->logout();
+        $this->guard()->logout();
+        return redirect()->route('login')
+            ->with('success', 'Я вас запомнил');
     }
 }
